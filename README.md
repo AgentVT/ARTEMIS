@@ -7,12 +7,6 @@ Iron man inspired Personal virtual assistant<br>
 ### Vision:
  To make an advanced personal voice assistant capable of responding to user's voice and perform tasks accordingly.
 
-### Background Readings:
-- [Is Iron Man jarvis still a fiction?]("https://medium.com/@froger_mcs/iron-mans-jarvis-is-it-still-a-fiction-972c337294de")
-- [Two Indian Men create Jarvis OS]("https://www.indianweb2.com/2014/07/28/two-indians-made-iron-mans-jarvis-ai-reality/")
-- [Mark Zunckerberg's blog on Jarvis]("https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10103347273888091/?pnref=story")
-- [An in-depth analysis of Jarvis by a professional]("https://www.linkedin.com/pulse/how-studying-ai-ruins-marvel-movies-you-tony-starks-jarvis-feroli/")
-
 ### Inspiration:
 
 
